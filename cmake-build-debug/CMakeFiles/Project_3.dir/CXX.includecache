@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kellyn/CLionProjects/Project_3/BSTree.h
+Node.h
+/Users/kellyn/CLionProjects/Project_3/Node.h
+
+/Users/kellyn/CLionProjects/Project_3/DVD.h
+string
+-
+
+/Users/kellyn/CLionProjects/Project_3/Node.h
+
+/Users/kellyn/CLionProjects/Project_3/main.cpp
+DVD.h
+/Users/kellyn/CLionProjects/Project_3/DVD.h
+Node.h
+/Users/kellyn/CLionProjects/Project_3/Node.h
+BSTree.h
+/Users/kellyn/CLionProjects/Project_3/BSTree.h
+iostream
+-
+string
+-
+fstream
+-
+sstream
+-
+cstdio
+-
+
