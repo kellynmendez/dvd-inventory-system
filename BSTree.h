@@ -1,5 +1,4 @@
-/** Kellyn Mendez - CS 2337.003, Project 3
- *      NetID: kpm200000
+/** BSTree class header file
  */
 
 #ifndef BSTREE_H
