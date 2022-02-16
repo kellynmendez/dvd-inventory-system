@@ -1,4 +1,5 @@
-/** BSTree class header file
+/** 
+ *  BSTree class header file
  */
 
 #ifndef BSTREE_H
