@@ -1,5 +1,5 @@
-/** Kellyn Mendez - CS 2337.003, Project 3
- *      NetID: kpm200000
+/** Reads a file of all transitions (rentals, returns and inventory maintenance), processes each 
+ *  transaction and creates a report of all DVD titles and quantities.
  */
 
 #include "DVD.h"
